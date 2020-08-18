@@ -1,2 +1,2 @@
-# visualizing_scientific_publications
-Trying to get information of publications made in peer-review scientific journals and do some data visualization.
+# Visualizing scientific publications
+In this project my idea is to collect and analyze data about publications in peer-reviewed scientific journals. Up to now I restricted myself to data provided by [Springer Nature through his RESTful API](https://dev.springernature.com/), but further improvements will be made in the near future. If you have any constructive criticism or suggestion, please feel free to contact me.
